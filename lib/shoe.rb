@@ -10,6 +10,9 @@ class Shoe
     @brand 
   end 
   
+  def cobble 
+    # puts "So"
+  end 
   # def color
   #   @color
   # end 
